@@ -2,12 +2,34 @@
   "hero": {
     "title": "Uniting the World, Driving Your Business",
     "desc": "Trusted global logistics solutions for import and export.",
-    "cta": "Contact Us"
+    "cta": "Contact Us",
+    "cta2": "Get a Quote"
   },
   "footer": {
+    "servicesTitle" : "Our Services",
     "address": "Jl. Raya Internasional No. 1, Jakarta",
     "email": "info@company.com",
-    "phone": "+62 21 1234 5678"
+    "phone": "+62 21 1234 5678",
+    "description": "Trusted global logistics solutions for import and export since 2015.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "ourServices": "Our Services",
+    "service1": "Import Goods",
+    "service2": "Export Commodities",
+    "service3": "Logistics & Warehousing",
+    "service4": "International Consulting",
+    "subscribe": "Subscribe",
+    "subscribeDesc": "Get the latest information about our services.",
+    "emailPlaceholder": "Enter your email",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "certifications": "Certifications & Partners",
+    "officeLocation": "Office Location",
+    "officeAddress": "Jl. Jend. Sudirman No. 123, Jakarta, Indonesia"
   },
   "nav": {
     "home": "Home",
@@ -21,15 +43,192 @@
   },
   "about": {
     "title": "About Our Company",
-    "description": "We are a leading global logistics provider committed to delivering efficient and reliable import and export solutions. Our expertise spans across multiple industries, ensuring your business reaches new heights."
+    "description": "We are a leading global logistics provider committed to delivering efficient and reliable import and export solutions. Our expertise spans across multiple industries, ensuring your business reaches new heights.",
+    "timeline": {
+      "title": "Our History",
+      "timeline1": {
+        "title": "Founded",
+        "desc": "Our company was founded in 2015 with a vision to revolutionize logistics."
+      },
+      "timeline2": {
+        "title": "Expansion",
+        "desc": "Expanded our services internationally in 2018."
+      },
+      "timeline3": {
+        "title": "Innovation",
+        "desc": "Introduced cutting-edge technology in 2020."
+      },
+      "timeline4": {
+        "title": "Today",
+        "desc": "Continuing to grow and serve clients worldwide."
+      }
+    },
+    "value1": {
+      "title": "Reliability",
+      "desc": "We ensure dependable service for all our clients."
+    },
+    "value2": {
+      "title": "Global Reach",
+      "desc": "Our network spans across continents."
+    },
+    "value3": {
+      "title": "Timeliness",
+      "desc": "We value your time and deliver on schedule."
+    },
+    "value4": {
+      "title": "Excellence",
+      "desc": "Committed to the highest standards."
+    },
+    "story": {
+      "title": "Our Story",
+      "p1": "Founded with a passion for logistics.",
+      "p2": "Growing steadily with a focus on customer satisfaction.",
+      "p3": "Innovating to meet modern challenges."
+    },
+    "mission": {
+      "title": "Mission & Vision",
+      "subtitle1": "Our Mission",
+      "list1": "Provide reliable logistics solutions.",
+      "list2": "Expand global partnerships.",
+      "list3": "Innovate continuously.",
+      "subtitle2": "Our Vision",
+      "vision": "To be the world’s leading logistics provider."
+    },
+    "values": {
+      "title": "Core Values"
+    },
+    "whyChoose": {
+      "title": "Why Choose Us",
+      "p1": "We offer unparalleled service and expertise.",
+      "list1": "Experienced professionals.",
+      "list2": "Global network.",
+      "list3": "Customer-centric approach.",
+      "list4": "Innovative solutions.",
+      "stat1": "100+ Projects Completed",
+      "stat2": "200+ Satisfied Clients"
+    },
+    "certifications": {
+      "title": "Certifications & Partners"
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "bio1": "John Doe is our CEO and founder with over 20 years of experience.",
+      "bio2": "Jane Smith leads our logistics department with expertise in global trade.",
+      "bio3": "Michael Lee is an international trade expert with a passion for innovation."
+    },
+    "cta": {
+      "title": "Ready to Work With Us?",
+      "desc": "Contact us today to learn how we can help your business grow.",
+      "button": "Contact Us"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "About"
+    }
   },
   "services": {
     "title": "Our Services",
-    "imporBarang": "Import Goods Handling",
-    "eksporKomoditas": "Export Commodities Management",
-    "pengurusanDokumen": "Documentation Processing",
-    "logistikGudang": "Warehouse and Logistics",
-    "konsultasiInternasional": "International Consulting"
+    "hero": {
+      "title": "Our Comprehensive Services",
+      "desc": "Explore our wide range of logistics solutions tailored to your needs."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Services"
+    },
+    "services": {
+      "title": "Our Services"
+    },
+    "airfreight": {
+      "title": "Air Freight",
+      "desc": "Fast and reliable air cargo services worldwide.",
+      "benefitsTitle": "Benefits",
+      "benefits": [
+        "Speedy delivery",
+        "Global coverage",
+        "Secure handling"
+      ],
+      "cta": "Contact Us for Air Freight"
+    },
+    "seafreight": {
+      "title": "Sea Freight",
+      "desc": "Cost-effective sea shipping solutions for large volumes.",
+      "benefitsTitle": "Benefits",
+      "benefits": [
+        "Economical rates",
+        "Wide network",
+        "Flexible schedules"
+      ],
+      "cta": "Contact Us for Sea Freight"
+    },
+    "doortodoor": {
+      "title": "Door to Door",
+      "desc": "Convenient door-to-door delivery services.",
+      "benefitsTitle": "Benefits",
+      "benefits": [
+        "End-to-end service",
+        "Time-saving",
+        "Reliable tracking"
+      ],
+      "cta": "Contact Us for Door to Door"
+    },
+    "whychoose": {
+      "title": "Why Choose Us",
+      "speed": {
+        "title": "Speed",
+        "desc": "We ensure timely delivery for all shipments."
+      },
+      "network": {
+        "title": "Global Network",
+        "desc": "Our extensive network covers all major trade routes."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "desc": "Trusted by clients worldwide for consistent service."
+      }
+    },
+    "timeline1": {
+      "step": "Order Placement",
+      "desc": "Place your order with our expert team."
+    },
+    "timeline2": {
+      "step": "Processing",
+      "desc": "We handle all logistics and documentation."
+    },
+    "timeline3": {
+      "step": "Shipping",
+      "desc": "Your goods are shipped securely and efficiently."
+    },
+    "timeline4": {
+      "step": "Delivery",
+      "desc": "Receive your shipment at the destination."
+    },
+    "process": {
+      "title": "Shipping Process"
+    },
+    "stats": {
+      "years": "Years of Experience",
+      "countries": "Countries Served",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "client1": {
+        "quote": "Excellent service and support throughout our shipment.",
+        "name": "Alice Johnson",
+        "position": "Logistics Manager"
+      },
+      "client2": {
+        "quote": "Reliable and efficient, highly recommended.",
+        "name": "Bob Smith",
+        "position": "Operations Director"
+      }
+    },
+    "cta": {
+      "title": "Get Started with Our Services",
+      "desc": "Contact us today to discuss your logistics needs.",
+      "button": "Contact Us"
+    }
   },
   "network": {
     "title": "Our Global Network",
@@ -52,5 +251,15 @@
   "partners": {
     "title": "Our Trusted Partners",
     "description": "We collaborate with top-tier partners worldwide to deliver comprehensive logistics solutions tailored to your needs."
+  },
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "network": "Global Network",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "banner": "Your trusted partner in global logistics.",
+    "contactUs": "Contact Us"
   }
 }

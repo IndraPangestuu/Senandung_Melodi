@@ -2,12 +2,44 @@
   "hero": {
     "title": "Menyatukan Dunia, Menggerakkan Bisnis Anda",
     "desc": "Solusi logistik global terpercaya untuk impor dan ekspor.",
-    "cta": "Hubungi Kami"
+    "cta": "Hubungi Kami",
+    "cta2": "Pelajari Lebih Lanjut"
+  },
+  "header": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "network": "Jaringan Global",
+    "testimonials": "Testimoni",
+    "contact": "Kontak",
+    "banner": "Mitra terpercaya Anda dalam logistik global.",
+    "contactUs": "Hubungi Kami"
   },
   "footer": {
+    "servicesTitle" : "Layanan Kami",
     "address": "Jl. Raya Internasional No. 1, Jakarta",
-    "email": "info@perusahaan.com",
-    "phone": "+62 21 1234 5678"
+    "email": "info@company.com",
+    "phone": "+62 21 1234 5678",
+    "description": "Solusi logistik global terpercaya untuk impor dan ekspor sejak 2015.",
+    "quickLinks": "Tautan Cepat",
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "contact": "Kontak",
+    "ourServices": "Layanan Kami",
+    "service1": "Impor Barang",
+    "service2": "Ekspor Komoditas",
+    "service3": "Logistik & Pergudangan",
+    "service4": "Konsultasi Internasional",
+    "subscribe": "Langganan",
+    "subscribeDesc": "Dapatkan informasi terbaru tentang layanan kami.",
+    "emailPlaceholder": "Masukkan email Anda",
+    "rights": "Hak Cipta Dilindungi.",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat & Ketentuan",
+    "certifications": "Sertifikasi & Mitra",
+    "officeLocation": "Lokasi Kantor",
+    "officeAddress": "Jl. Jend. Sudirman No. 123, Jakarta, Indonesia"
   },
   "nav": {
     "home": "Beranda",
@@ -21,15 +53,192 @@
   },
   "about": {
     "title": "Tentang Perusahaan Kami",
-    "description": "Kami adalah penyedia logistik global terkemuka yang berkomitmen untuk memberikan solusi impor dan ekspor yang efisien dan andal. Keahlian kami mencakup berbagai industri, memastikan bisnis Anda mencapai puncak kesuksesan."
+    "description": "Kami adalah penyedia logistik global terkemuka yang berkomitmen untuk memberikan solusi impor dan ekspor yang efisien dan andal. Keahlian kami mencakup berbagai industri, memastikan bisnis Anda mencapai puncak kesuksesan.",
+    "timeline": {
+      "title": "Sejarah Kami",
+      "timeline1": {
+        "title": "Didirikan",
+        "desc": "Perusahaan kami didirikan pada tahun 2015 dengan visi merevolusi logistik."
+      },
+      "timeline2": {
+        "title": "Perluasan",
+        "desc": "Memperluas layanan kami secara internasional pada tahun 2018."
+      },
+      "timeline3": {
+        "title": "Inovasi",
+        "desc": "Memperkenalkan teknologi mutakhir pada tahun 2020."
+      },
+      "timeline4": {
+        "title": "Saat Ini",
+        "desc": "Terus berkembang dan melayani klien di seluruh dunia."
+      }
+    },
+    "value1": {
+      "title": "Keandalan",
+      "desc": "Kami memastikan layanan yang dapat diandalkan untuk semua klien kami."
+    },
+    "value2": {
+      "title": "Jangkauan Global",
+      "desc": "Jaringan kami mencakup berbagai benua."
+    },
+    "value3": {
+      "title": "Ketepatan Waktu",
+      "desc": "Kami menghargai waktu Anda dan mengirimkan tepat waktu."
+    },
+    "value4": {
+      "title": "Keunggulan",
+      "desc": "Berkomitmen pada standar tertinggi."
+    },
+    "story": {
+      "title": "Cerita Kami",
+      "p1": "Didirikan dengan semangat untuk logistik.",
+      "p2": "Tumbuh secara stabil dengan fokus pada kepuasan pelanggan.",
+      "p3": "Berinovasi untuk menghadapi tantangan modern."
+    },
+    "mission": {
+      "title": "Misi & Visi",
+      "subtitle1": "Misi Kami",
+      "list1": "Menyediakan solusi logistik yang dapat diandalkan.",
+      "list2": "Memperluas kemitraan global.",
+      "list3": "Terus berinovasi.",
+      "subtitle2": "Visi Kami",
+      "vision": "Menjadi penyedia logistik terkemuka di dunia."
+    },
+    "values": {
+      "title": "Nilai Inti"
+    },
+    "whyChoose": {
+      "title": "Mengapa Memilih Kami",
+      "p1": "Kami menawarkan layanan dan keahlian yang tak tertandingi.",
+      "list1": "Profesional berpengalaman.",
+      "list2": "Jaringan global.",
+      "list3": "Pendekatan berorientasi pelanggan.",
+      "list4": "Solusi inovatif.",
+      "stat1": "100+ Proyek Selesai",
+      "stat2": "200+ Klien Puas"
+    },
+    "certifications": {
+      "title": "Sertifikasi & Mitra"
+    },
+    "team": {
+      "title": "Temui Tim Kami",
+      "bio1": "John Doe adalah CEO dan pendiri kami dengan pengalaman lebih dari 20 tahun.",
+      "bio2": "Jane Smith memimpin departemen logistik kami dengan keahlian dalam perdagangan global.",
+      "bio3": "Michael Lee adalah ahli perdagangan internasional dengan semangat untuk inovasi."
+    },
+    "cta": {
+      "title": "Siap Bekerja Dengan Kami?",
+      "desc": "Hubungi kami hari ini untuk mengetahui bagaimana kami dapat membantu bisnis Anda berkembang.",
+      "button": "Hubungi Kami"
+    },
+    "breadcrumb": {
+      "home": "Beranda",
+      "current": "Tentang"
+    }
   },
   "services": {
     "title": "Layanan Kami",
-    "imporBarang": "Penanganan Barang Impor",
-    "eksporKomoditas": "Manajemen Komoditas Ekspor",
-    "pengurusanDokumen": "Pengurusan Dokumen",
-    "logistikGudang": "Gudang dan Logistik",
-    "konsultasiInternasional": "Konsultasi Internasional"
+    "hero": {
+      "title": "Layanan Komprehensif Kami",
+      "desc": "Jelajahi berbagai solusi logistik yang disesuaikan dengan kebutuhan Anda."
+    },
+    "breadcrumb": {
+      "home": "Beranda",
+      "current": "Layanan"
+    },
+    "services": {
+      "title": "Layanan Kami"
+    },
+    "airfreight": {
+      "title": "Pengiriman Udara",
+      "desc": "Layanan kargo udara cepat dan andal di seluruh dunia.",
+      "benefitsTitle": "Manfaat",
+      "benefits": [
+        "Pengiriman cepat",
+        "Cakupan global",
+        "Penanganan aman"
+      ],
+      "cta": "Hubungi Kami untuk Pengiriman Udara"
+    },
+    "seafreight": {
+      "title": "Pengiriman Laut",
+      "desc": "Solusi pengiriman laut yang hemat biaya untuk volume besar.",
+      "benefitsTitle": "Manfaat",
+      "benefits": [
+        "Tarif ekonomis",
+        "Jaringan luas",
+        "Jadwal fleksibel"
+      ],
+      "cta": "Hubungi Kami untuk Pengiriman Laut"
+    },
+    "doortodoor": {
+      "title": "Door to Door",
+      "desc": "Layanan pengiriman dari pintu ke pintu yang nyaman.",
+      "benefitsTitle": "Manfaat",
+      "benefits": [
+        "Layanan menyeluruh",
+        "Menghemat waktu",
+        "Pelacakan andal"
+      ],
+      "cta": "Hubungi Kami untuk Door to Door"
+    },
+    "whychoose": {
+      "title": "Mengapa Memilih Kami",
+      "speed": {
+        "title": "Kecepatan",
+        "desc": "Kami memastikan pengiriman tepat waktu untuk semua kiriman."
+      },
+      "network": {
+        "title": "Jaringan Global",
+        "desc": "Jaringan luas kami mencakup semua jalur perdagangan utama."
+      },
+      "reliability": {
+        "title": "Keandalan",
+        "desc": "Dipercaya oleh klien di seluruh dunia untuk layanan yang konsisten."
+      }
+    },
+    "timeline1": {
+      "step": "Penempatan Pesanan",
+      "desc": "Tempatkan pesanan Anda dengan tim ahli kami."
+    },
+    "timeline2": {
+      "step": "Pemrosesan",
+      "desc": "Kami menangani semua logistik dan dokumentasi."
+    },
+    "timeline3": {
+      "step": "Pengiriman",
+      "desc": "Barang Anda dikirim dengan aman dan efisien."
+    },
+    "timeline4": {
+      "step": "Pengantaran",
+      "desc": "Terima kiriman Anda di tujuan."
+    },
+    "process": {
+      "title": "Proses Pengiriman"
+    },
+    "stats": {
+      "years": "Tahun Pengalaman",
+      "countries": "Negara yang Dilayani",
+      "satisfaction": "Kepuasan Pelanggan"
+    },
+    "testimonials": {
+      "title": "Testimoni Klien",
+      "client1": {
+        "quote": "Layanan dan dukungan luar biasa selama pengiriman kami.",
+        "name": "Alice Johnson",
+        "position": "Manajer Logistik"
+      },
+      "client2": {
+        "quote": "Handal dan efisien, sangat direkomendasikan.",
+        "name": "Bob Smith",
+        "position": "Direktur Operasi"
+      }
+    },
+    "cta": {
+      "title": "Mulai dengan Layanan Kami",
+      "desc": "Hubungi kami hari ini untuk membahas kebutuhan logistik Anda.",
+      "button": "Hubungi Kami"
+    }
   },
   "network": {
     "title": "Jaringan Global Kami",

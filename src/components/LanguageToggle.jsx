@@ -8,11 +8,11 @@ const LanguageToggle = () => {
   return (
     <button
       onClick={toggleLang}
-      className="flex items-center gap-2 text-gray-700 hover:text-accent transition-colors"
+      className="flex relative left-6 items-center gap-2 text-gray-700 hover:text-accent transition-colors"
       aria-label="Toggle language"
     >
+      <span>{lang === 'id' ? 'Id' : 'En'}</span>
       <span>🌐</span>
-      <span>{lang === 'id' ? 'English' : 'Indonesia'}</span>
     </button>
   );
 };
