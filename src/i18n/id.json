@@ -15,6 +15,42 @@
     "services": "Layanan",
     "network": "Jaringan Global",
     "testimonials": "Testimoni",
-    "contact": "Kontak"
+    "contact": "Kontak",
+    "blog": "Blog",
+    "partners": "Mitra"
+  },
+  "about": {
+    "title": "Tentang Perusahaan Kami",
+    "description": "Kami adalah penyedia logistik global terkemuka yang berkomitmen untuk memberikan solusi impor dan ekspor yang efisien dan andal. Keahlian kami mencakup berbagai industri, memastikan bisnis Anda mencapai puncak kesuksesan."
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "imporBarang": "Penanganan Barang Impor",
+    "eksporKomoditas": "Manajemen Komoditas Ekspor",
+    "pengurusanDokumen": "Pengurusan Dokumen",
+    "logistikGudang": "Gudang dan Logistik",
+    "konsultasiInternasional": "Konsultasi Internasional"
+  },
+  "network": {
+    "title": "Jaringan Global Kami",
+    "description": "Dengan jaringan luas mitra dan agen di seluruh dunia, kami memastikan operasi logistik yang mulus di berbagai benua, memberikan jangkauan dan kualitas layanan yang tak tertandingi."
+  },
+  "testimonials": {
+    "title": "Apa Kata Klien Kami",
+    "testimonial1": "Solusi logistik mereka telah mengubah efisiensi rantai pasokan kami.",
+    "testimonial2": "Handal, profesional, dan selalu tepat waktu. Sangat direkomendasikan!",
+    "testimonial3": "Layanan dan dukungan luar biasa selama pengiriman internasional kami."
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "description": "Punya pertanyaan atau butuh solusi logistik khusus? Hubungi tim ahli kami hari ini dan biarkan kami membantu bisnis Anda berkembang."
+  },
+  "blog": {
+    "title": "Wawasan Terbaru",
+    "description": "Tetap terupdate dengan berita industri, tips, dan saran ahli tentang logistik global dan manajemen rantai pasokan."
+  },
+  "partners": {
+    "title": "Mitra Terpercaya Kami",
+    "description": "Kami bekerja sama dengan mitra kelas atas di seluruh dunia untuk memberikan solusi logistik komprehensif yang disesuaikan dengan kebutuhan Anda."
   }
 }

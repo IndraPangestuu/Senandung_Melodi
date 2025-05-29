@@ -15,6 +15,42 @@
     "services": "Services",
     "network": "Global Network",
     "testimonials": "Testimonials",
-    "contact": "Contact"
+    "contact": "Contact",
+    "blog": "Blog",
+    "partners": "Partners"
+  },
+  "about": {
+    "title": "About Our Company",
+    "description": "We are a leading global logistics provider committed to delivering efficient and reliable import and export solutions. Our expertise spans across multiple industries, ensuring your business reaches new heights."
+  },
+  "services": {
+    "title": "Our Services",
+    "imporBarang": "Import Goods Handling",
+    "eksporKomoditas": "Export Commodities Management",
+    "pengurusanDokumen": "Documentation Processing",
+    "logistikGudang": "Warehouse and Logistics",
+    "konsultasiInternasional": "International Consulting"
+  },
+  "network": {
+    "title": "Our Global Network",
+    "description": "With a vast network of partners and agents worldwide, we ensure seamless logistics operations across continents, providing you with unparalleled reach and service quality."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "testimonial1": "Their logistics solutions have transformed our supply chain efficiency.",
+    "testimonial2": "Reliable, professional, and always on time. Highly recommended!",
+    "testimonial3": "Exceptional service and support throughout our international shipments."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Have questions or need a custom logistics solution? Contact our expert team today and let us help your business grow."
+  },
+  "blog": {
+    "title": "Latest Insights",
+    "description": "Stay updated with industry news, tips, and expert advice on global logistics and supply chain management."
+  },
+  "partners": {
+    "title": "Our Trusted Partners",
+    "description": "We collaborate with top-tier partners worldwide to deliver comprehensive logistics solutions tailored to your needs."
   }
 }
