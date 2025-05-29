@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Menyatukan Dunia, Menggerakkan Bisnis Anda",
+    "desc": "Solusi logistik global terpercaya untuk impor dan ekspor.",
+    "cta": "Hubungi Kami"
+  },
+  "footer": {
+    "address": "Jl. Raya Internasional No. 1, Jakarta",
+    "email": "info@perusahaan.com",
+    "phone": "+62 21 1234 5678"
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "network": "Jaringan Global",
+    "testimonials": "Testimoni",
+    "contact": "Kontak"
+  }
+}

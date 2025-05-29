@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Uniting the World, Driving Your Business",
+    "desc": "Trusted global logistics solutions for import and export.",
+    "cta": "Contact Us"
+  },
+  "footer": {
+    "address": "Jl. Raya Internasional No. 1, Jakarta",
+    "email": "info@company.com",
+    "phone": "+62 21 1234 5678"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "network": "Global Network",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  }
+}
